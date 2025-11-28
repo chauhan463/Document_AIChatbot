@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# Local databases
+vector_db/
+chroma/
+*.sqlite*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Models – DO NOT UPLOAD
+ai-models/
+*.gguf
+*.bin
+*.onnx
+
+# Input PDFs
+training/
+*.pdf
+
+# Logs
+*.log
+
+# Cache
+.cache/
+
