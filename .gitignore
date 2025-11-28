@@ -32,3 +32,8 @@ training/
 # Cache
 .cache/
 
+# Unstructured OCR temporary files
+ocr_images/
+
+*.zip
+
